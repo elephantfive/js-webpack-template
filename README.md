@@ -1,4 +1,4 @@
-Template for javascript that includes
-Webpack
-HTML/HTML image loader
+Template for javascript that includes:  
+Webpack  
+HTML/HTML image loader  
 CSS loader
